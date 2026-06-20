@@ -48,8 +48,8 @@
     "morgan": "^1.10.0",
     "node-cron": "^3.0.2",
     "reflect-metadata": "^0.1.13",
-    "routing-controllers": "^0.10.4",
-    "routing-controllers-openapi": "^4.0.0",
+    "routing-controllers": "^0.11.3",
+    "routing-controllers-openapi": "^5.0.1",
     "swagger-ui-express": "^5.0.0",
     "winston": "^3.10.0",
     "winston-daily-rotate-file": "^4.7.1"
